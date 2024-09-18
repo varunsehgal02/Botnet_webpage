@@ -190,19 +190,14 @@ button:hover{
     text-align: center;
     position: relative;
     width: 100%;
-    top: 35px;
+    top: 60px;
 }
-.text-pwd2{
-    text-align: center;
-    position: relative;
-    width: 100%;
-    top: 47px;
-}
+
 .text-pwd3{
     text-align: center;
     position: relative;
     width: 100%;
-    top: 57px;
+    top: 70px;
 }
 .main-into2{
     border: #1e1e1e 1px solid;
@@ -251,6 +246,17 @@ section{
     font-weight: bold;
     width: 100%;
     color: #4e4a4a;
+    right: 480px;
+    position: relative;
+    top: 50px;
+    text-align: center;
+}
+.big-text2{
+    font-size: 50px;
+    font-weight: bold;
+    width: 100%;
+    color: #4e4a4a;
+    right: 535px;
     text-align: center;
 }
 
